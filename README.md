@@ -120,30 +120,30 @@
 <div align="center">
   <h2>📊 GitHub Analytics & Trophies</h2>
 
-  <!-- Trophies -->
+  <!-- Trophies (Cache busted for reliability) -->
   <a href="https://github.com/pratikBhadane18">
-    <img src="https://github-profile-trophy.vercel.app/?username=pratikBhadane18&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true&v=2" alt="Pratik's GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=pratikBhadane18&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true&v=3" alt="Pratik's GitHub Trophies" />
   </a>
   <br><br>
 
-  <!-- GitHub Stats & Languages (Switched to Highly Reliable Community Instance) -->
+  <!-- GitHub Stats & Languages (Using highly stable community endpoint) -->
   <a href="https://github.com/pratikBhadane18">
-    <img src="https://github-readme-stats.shion.dev/api?username=pratikBhadane18&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=ffffff&icon_color=38BDF8&v=2" height="195" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.shion.dev/api?username=pratikBhadane18&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=ffffff&icon_color=38BDF8" height="195" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/pratikBhadane18">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pratikBhadane18&layout=compact&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=ffffff&v=2" height="195" alt="Top Languages" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pratikBhadane18&layout=compact&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=ffffff" height="195" alt="Top Languages" />
   </a>
   
   <br><br>
 
-  <!-- GitHub Streak -->
+  <!-- GitHub Streak (Reverted to primary Heroku app for API stability) -->
   <a href="https://github.com/pratikBhadane18">
-    <img src="https://streak-stats.demolab.com/?user=pratikBhadane18&hide_border=true&background=0D1117&ring=A970FF&fire=38BDF8&currStreakLabel=A970FF&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikBhadane18&hide_border=true&background=0D1117&ring=A970FF&fire=38BDF8&currStreakLabel=A970FF&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&v=3" alt="GitHub Streak" />
   </a>
   
   <br><br>
 
-  <!-- Contribution Graph (Switched to Stable ghchart service to prevent sad face API crashes) -->
+  <!-- Contribution Graph -->
   <a href="https://github.com/pratikBhadane18">
     <img src="https://ghchart.rshah.org/A970FF/pratikBhadane18" width="100%" alt="Contribution Graph" />
   </a>

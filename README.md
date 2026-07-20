@@ -165,7 +165,7 @@
 
   <!-- Visitor Counter -->
 
-  <p><img src="https://profile-counter.glitch.me/pratikBhadane18/count.svg" alt="Visitor Count" /></p>
+  <p><img src="https://komarev.com/ghpvc/?username=pratikBhadane18&style=for-the-badge&color=blueviolet" /></p>
 </div>
 
 <br>

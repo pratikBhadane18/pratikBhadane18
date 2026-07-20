@@ -122,23 +122,23 @@
 
   <!-- Trophies -->
   <a href="https://github.com/pratikBhadane18">
-    <img src="https://github-profile-trophy.vercel.app/?username=pratikBhadane18&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Pratik's GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=pratikBhadane18&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true&v=1" alt="Pratik's GitHub Trophies" />
   </a>
   <br><br>
 
   <!-- GitHub Stats & Languages -->
   <a href="https://github.com/pratikBhadane18">
-    <img src="https://github-readme-stats.vercel.app/api?username=pratikBhadane18&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=ffffff&icon_color=38BDF8" height="195" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=pratikBhadane18&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=ffffff&icon_color=38BDF8&v=1" height="195" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/pratikBhadane18">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikBhadane18&layout=compact&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=ffffff" height="195" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikBhadane18&layout=compact&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=ffffff&v=1" height="195" alt="Top Languages" />
   </a>
   
   <br><br>
 
-  <!-- GitHub Streak -->
+  <!-- GitHub Streak (Updated to stable demolab instance) -->
   <a href="https://github.com/pratikBhadane18">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikBhadane18&hide_border=true&background=0D1117&ring=A970FF&fire=38BDF8&currStreakLabel=A970FF&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=pratikBhadane18&hide_border=true&background=0D1117&ring=A970FF&fire=38BDF8&currStreakLabel=A970FF&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
   </a>
   
   <br><br>
@@ -148,6 +148,11 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikBhadane18&bg_color=0D1117&color=38BDF8&line=A970FF&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
   </a>
   
+  <br><br>
+  
+  <!-- Visitor Counter -->
+  <p><img src="https://profile-counter.glitch.me/pratikBhadane18/count.svg" alt="Visitor Count" /></p>
+</div>
   <br><br>
   
   <!-- Visitor Counter -->

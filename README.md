@@ -20,7 +20,7 @@
   <p align="center" style="max-width: 600px;">
     I am an ambitious <b>Computer Science Undergraduate</b> based in Nashik, Maharashtra, India, graduating in 2027. My engineering philosophy revolves around writing <b>clean code</b>, architecting <b>scalable applications</b>, and embodying a mindset of <b>continuous improvement</b>. 
     <br><br>
-    I am deeply passionate about <b>Cloud Computing</b>, <b>Artificial Intelligence</b>, and <b>Full Stack Development</b>. Whether I am optimizing a backend system, deploying scalable infrastructure on <b>AWS</b>, or integrating modern AI solutions, I thrive on complex problem-solving and pushing the boundaries of what technology can achieve.
+    I am deeply passionate about <b>Cloud Computing</b>, <b>Artificial Intelligence</b>, and <b>Full Stack Development</b>. Whether I am deploying scalable infrastructure on <b>AWS</b>, integrating modern generative AI solutions, mastering Data Structures and Algorithms, or engineering comprehensive platforms like event management systems and gamified educational tools, I thrive on complex problem-solving. By utilizing React and the broader MERN stack, I constantly push the boundaries of what resilient technology can achieve.
   </p>
 </div>
 
@@ -122,37 +122,32 @@
 
   <!-- Trophies -->
   <a href="https://github.com/pratikBhadane18">
-    <img src="https://github-profile-trophy.vercel.app/?username=pratikBhadane18&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true&v=1" alt="Pratik's GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=pratikBhadane18&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true&v=2" alt="Pratik's GitHub Trophies" />
   </a>
   <br><br>
 
-  <!-- GitHub Stats & Languages -->
+  <!-- GitHub Stats & Languages (Switched to Highly Reliable Community Instance) -->
   <a href="https://github.com/pratikBhadane18">
-    <img src="https://github-readme-stats.vercel.app/api?username=pratikBhadane18&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=ffffff&icon_color=38BDF8&v=1" height="195" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.shion.dev/api?username=pratikBhadane18&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=ffffff&icon_color=38BDF8&v=2" height="195" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/pratikBhadane18">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikBhadane18&layout=compact&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=ffffff&v=1" height="195" alt="Top Languages" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pratikBhadane18&layout=compact&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=ffffff&v=2" height="195" alt="Top Languages" />
   </a>
   
   <br><br>
 
-  <!-- GitHub Streak (Updated to stable demolab instance) -->
+  <!-- GitHub Streak -->
   <a href="https://github.com/pratikBhadane18">
     <img src="https://streak-stats.demolab.com/?user=pratikBhadane18&hide_border=true&background=0D1117&ring=A970FF&fire=38BDF8&currStreakLabel=A970FF&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
   </a>
   
   <br><br>
 
-  <!-- Activity Graph -->
+  <!-- Contribution Graph (Switched to Stable ghchart service to prevent sad face API crashes) -->
   <a href="https://github.com/pratikBhadane18">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikBhadane18&bg_color=0D1117&color=38BDF8&line=A970FF&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+    <img src="https://ghchart.rshah.org/A970FF/pratikBhadane18" width="100%" alt="Contribution Graph" />
   </a>
   
-  <br><br>
-  
-  <!-- Visitor Counter -->
-  <p><img src="https://profile-counter.glitch.me/pratikBhadane18/count.svg" alt="Visitor Count" /></p>
-</div>
   <br><br>
   
   <!-- Visitor Counter -->

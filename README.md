@@ -1,9 +1,11 @@
 <!-- 1. Animated Header -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,0D1117,38BDF8,A970FF&height=250&section=header&text=Hi+There!+👋+I'm+Pratik&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20@%20RCPIT&descAlignY=55&descAlign=62" width="100%" alt="Header" />
 </div>
 
 <!-- 2. Typing Animation -->
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Cloud+Computing+Enthusiast;Full+Stack+Developer;AI+%26+AWS+Explorer;Building+Scalable+Systems;Passionate+Problem+Solver" alt="Typing SVG" />
 </div>
@@ -11,12 +13,13 @@
 <br>
 
 <!-- 3. Professional Introduction & 4. About Me -->
+
 <div align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="200" alt="Coding GIF" />
   <br><br>
-  
+
   <h3>🚀 Architecting Solutions for the Modern Web & Cloud</h3>
-  
+
   <p align="center" style="max-width: 600px;">
     I am an ambitious <b>Computer Science Undergraduate</b> based in Nashik, Maharashtra, India, graduating in 2027. My engineering philosophy revolves around writing <b>clean code</b>, architecting <b>scalable applications</b>, and embodying a mindset of <b>continuous improvement</b>. 
     <br><br>
@@ -27,6 +30,7 @@
 <br>
 
 <!-- 5. Tech Stack -->
+
 <div align="center">
   <h2>⚡ Technical Arsenal</h2>
   <p><b>Programming Languages & Core</b></p>
@@ -34,14 +38,14 @@
   <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00599C" alt="C" />
 
-  <br><br>
-  
+<br><br>
+
   <p><b>Frontend & UI</b></p>
   <img src="https://img.shields.io/badge/React.js-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS" />
 
-  <br><br>
-  
+<br><br>
+
   <p><b>Backend & Databases</b></p>
   <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
@@ -52,6 +56,7 @@
 <br>
 
 <!-- 6. Cloud & DevOps Stack -->
+
 <div align="center">
   <h2>☁️ Cloud & DevOps Environment</h2>
   <p><b>Amazon Web Services (AWS)</b></p>
@@ -69,7 +74,7 @@
   <img src="https://img.shields.io/badge/EventBridge-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="EventBridge" />
   <img src="https://img.shields.io/badge/Rekognition-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="Rekognition" />
 
-  <br><br>
+<br><br>
 
   <p><b>DevOps & Development Tools</b></p>
   <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
@@ -83,13 +88,14 @@
 <br>
 
 <!-- 7. Current Focus & 8. Career Goals -->
+
 <div align="center">
   <h2>🎯 Vision & Trajectory</h2>
-  
+
   <p align="center">
     My core objective is to architect resilient infrastructures and intelligent software solutions. I am aiming to establish my career as a <b>Cloud Engineer</b>, <b>AI Engineer</b>, or <b>Full Stack Developer</b>—driving innovation and building real-world software that creates a lasting, positive impact on a global scale.
   </p>
-  
+
   <br>
 
   <table align="center" style="border-collapse: collapse; text-align: center;">
@@ -117,46 +123,55 @@
 <br><br>
 
 <!-- 9. GitHub Statistics & 10. Contribution Graph & 11. GitHub Trophies & 12. Activity Graph -->
+
 <div align="center">
   <h2>📊 GitHub Analytics & Trophies</h2>
 
-  <!-- Trophies (Cache busted for reliability) -->
+  <!-- Trophies -->
+
   <a href="https://github.com/pratikBhadane18">
-    <img src="https://github-profile-trophy.vercel.app/?username=pratikBhadane18&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true&v=3" alt="Pratik's GitHub Trophies" />
+   <img src="https://github-profile-trophy.vercel.app/?username=pratikBhadane18&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
   </a>
   <br><br>
 
-  <!-- GitHub Stats & Languages (Using highly stable community endpoint) -->
-  <a href="https://github.com/pratikBhadane18">
-    <img src="https://github-readme-stats.shion.dev/api?username=pratikBhadane18&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=ffffff&icon_color=38BDF8" height="195" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/pratikBhadane18">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pratikBhadane18&layout=compact&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=ffffff" height="195" alt="Top Languages" />
-  </a>
-  
-  <br><br>
+  <!-- GitHub Stats & Languages (Switched to Highly Reliable Community Instance) -->
 
-  <!-- GitHub Streak (Reverted to primary Heroku app for API stability) -->
   <a href="https://github.com/pratikBhadane18">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikBhadane18&hide_border=true&background=0D1117&ring=A970FF&fire=38BDF8&currStreakLabel=A970FF&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&v=3" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=pratikBhadane18&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=ffffff&icon_color=38BDF8&v=2" height="195" alt="GitHub Stats" />
   </a>
-  
-  <br><br>
+  <a href="https://github.com/pratikBhadane18">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikBhadane18&layout=compact&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=ffffff&v=2" height="195" alt="Top Languages" />
+  </a>
+
+<br><br>
+
+  <!-- GitHub Streak -->
+
+  <a href="https://github.com/pratikBhadane18">
+    <img src="https://streak-stats.demolab.com/?user=pratikBhadane18&hide_border=true&background=0D1117&ring=A970FF&fire=38BDF8&currStreakLabel=A970FF&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+  </a>
+
+<br><br>
+
+  <!-- Contribution Graph (Switched to Stable ghchart service to prevent sad face API crashes) -->
 
   <!-- Contribution Graph -->
-  <a href="https://github.com/pratikBhadane18">
-    <img src="https://ghchart.rshah.org/A970FF/pratikBhadane18" width="100%" alt="Contribution Graph" />
-  </a>
-  
-  <br><br>
-  
+
+<a href="https://github.com/pratikBhadane18">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikBhadane18&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph" />
+</a>
+
+<br><br>
+
   <!-- Visitor Counter -->
+
   <p><img src="https://profile-counter.glitch.me/pratikBhadane18/count.svg" alt="Visitor Count" /></p>
 </div>
 
 <br>
 
 <!-- 13. Connect With Me -->
+
 <div align="center">
   <h2>🌐 Connect With Me</h2>
   <a href="https://linkedin.com/in/pratik-bhadane-634817309">
@@ -179,6 +194,7 @@
 <br><br>
 
 <!-- 14. Inspirational Quote -->
+
 <div align="center">
   <br>
   <blockquote style="font-style: italic; color: #A970FF; font-size: 16px;">
@@ -188,6 +204,7 @@
 </div>
 
 <!-- 15. Animated Footer -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=A970FF,38BDF8,0D1117,000000&height=150&section=footer" width="100%" alt="Footer" />
 </div>

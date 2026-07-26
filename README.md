@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,0D1117,38BDF8,A970FF&height=250&section=header&text=Hi+There!+👋+I'm+Pratik&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20@%20&descAlignY=55&descAlign=62" width="100%" alt="Header" />
 </div>
 
-<!-- 2. Typing Animation -->
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Cloud+Computing+Enthusiast;Full+Stack+Developer;AI+%26+AWS+Explorer;Building+Scalable+Systems;Passionate+Problem+Solver" alt="Typing SVG" />

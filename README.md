@@ -28,7 +28,6 @@
 
 <br>
 
-<!-- 5. Tech Stack -->
 
 <div align="center">
   <h2>⚡ Technical Arsenal</h2>

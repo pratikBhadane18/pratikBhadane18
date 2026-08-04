@@ -53,7 +53,7 @@
 
 <br>
 
-<!-- 6. Cloud & DevOps Stack -->
+
 
 <div align="center">
   <h2>☁️ Cloud & DevOps Environment</h2>
